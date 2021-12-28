@@ -1,4 +1,4 @@
-### Hi there,I'm Isaac 👋
+### Hi there,I'm Isaac <img src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif" width="24"/>
 
 <!--
 **isaacfreitas/isaacfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
