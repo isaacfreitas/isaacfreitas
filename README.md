@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to play Basketball 🏀
 
 ##
+<!--
+Themes possibles
+- ♾ midnight-purple
+- Dracula -->
 
 <div align="center">
   <a href="https://github.com/isaacfreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacfreitas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=30px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfreitas&layout=compact&langs_count=7&theme=midnight-purple&border_radius=30px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=30px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfreitas&layout=compact&langs_count=7&theme=dark&border_radius=30px"/>
 
 </div>
   
