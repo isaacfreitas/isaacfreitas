@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning .NET,node and ReactJS
+- 🌱 I’m currently learning .NET,ReactJS and PL/SQL;
 - ⚡ Fun fact: I like to play Basketball 🏀
 
 ##
