@@ -1,48 +1,24 @@
-### Hi there,I'm Isaac <img src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif" width="24"/>
+# 💫 About Me:
+🔭 I’m currently working with .NET,ReactJS and PL/SQL;<br>🌱 I’m currently learning python<br>⚡ Fun fact: I like to play Basketball 🏀
 
-<!--
-**isaacfreitas/isaacfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/isaac-freitas-franca/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=isaacfreitas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=isaacfreitas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfreitas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning .NET,ReactJS and PL/SQL;
-- ⚡ Fun fact: I like to play Basketball 🏀
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=isaacfreitas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-##
-<!--
-Themes possibles
-- ♾ midnight-purple
-- Dracula -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=isaacfreitas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <a href="https://github.com/isaacfreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=30px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfreitas&layout=compact&langs_count=7&theme=dark&border_radius=30px"/>
+---
+[![](https://visitcount.itsvg.in/api?id=isaacfreitas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Isaac-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isaac-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Isaac-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Isaac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Isaac-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-</div>  
-
-##
-  
-  <a href="https://www.linkedin.com/in/isaac-freitas-631b89112" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/isaacfreitas/isaacfreitas/blob/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
